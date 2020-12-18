@@ -13,3 +13,9 @@ tailwindcss build src/styles.css -o public/style.css
 npm install live-server -g
 #to run from live-server and the folder you want to run from
 live-server public
+
+# customize config in tailwindcss
+npx tailwindcss-cli@latest init --full
+
+# create a blank config file for easy customization 
+npx tailwindcss-cli@latest init
