@@ -19,3 +19,5 @@ npx tailwindcss-cli@latest init --full
 
 # create a blank config file for easy customization 
 npx tailwindcss-cli@latest init
+
+# get icon svg from https://heroicons.com/
