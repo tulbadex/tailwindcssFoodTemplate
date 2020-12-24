@@ -21,3 +21,9 @@ npx tailwindcss-cli@latest init --full
 npx tailwindcss-cli@latest init
 
 # get icon svg from https://heroicons.com/
+
+# adding custom font from google and recompiling the build class
+
+# minimize classes applied by using @apply on the src css
+
+# icon used from https://heroicons.com/
